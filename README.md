@@ -72,7 +72,7 @@ Still working on it!
 - [01 Build a social network app using the JAMstack - Project setup and Auth](https://www.youtube.com/watch?v=L6-z15IvZ3k) -->
 <!-- YOUTUBE:END -->
 
----
+<!-- --- -->
 
 <!-- ### 📕 Latest Blog Posts -->
 <!-- BLOG-POST-LIST:START -->
