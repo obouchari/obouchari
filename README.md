@@ -60,6 +60,8 @@
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.svgporn.com/logos/github-icon.svg" />][github]
 [<img align="left" alt="Hyper" width="26px" src="https://cdn.svgporn.com/logos/hyper.svg" />][hyper]
 
+And more...
+
 <br />
 <br />
 
