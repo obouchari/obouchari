@@ -1,3 +1,5 @@
+[![Ceasefire Now](https://badge.techforpalestine.org/ceasefire-now)](https://techforpalestine.org/learn-more)
+
 ## Hi there, I'm [Otman Bouchari][website] 👋
 
 <!-- ## Latest course
