@@ -49,6 +49,7 @@
 [<img align="left" alt="Tailwind" width="26px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" />][tailwind]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.svgporn.com/logos/javascript.svg" />][js]
 [<img align="left" alt="React" width="26px" src="https://cdn.svgporn.com/logos/react.svg" />][react]
+[<img align="left" alt="Next.js" height="16px" src="https://cdn.svgporn.com/logos/nextjs.svg" />][nextjs]
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg" />][node]
 [<img align="left" alt="Git" width="26px" src="https://cdn.svgporn.com/logos/git-icon.svg" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.svgporn.com/logos/github-icon.svg" />][github]
@@ -56,9 +57,8 @@
 And more...
 
 <br />
-<br />
 
-### 📺 Latest YouTube Videos
+### 📺 Latest YouTube Videos:
 <!-- YOUTUBE:START -->
 Still working on it!
 <!-- YOUTUBE:END -->
@@ -71,13 +71,6 @@ Still working on it!
 - [01 Build a social network app using the JAMstack - Project setup and Auth](https://www.youtube.com/watch?v=L6-z15IvZ3k)
 -->
 
----
-
-[website]: https://obouchari.me
-[twitter]: https://twitter.com/obouchari
-[youtube]: https://www.youtube.com/channel/UChLDblifp0g9hs7BKJTdLNQ
-[linkedin]: https://linkedin.com/in/obouchari
-
 <!--
 ### 📕 Latest Blog Posts
 BLOG-POST-LIST:START
@@ -88,8 +81,6 @@ BLOG-POST-LIST:START
 - [Moving from create-react-app to Gatsby.js](https://khaledgarbaya.net/articles/moving-from-create-react-app-to-gatsby-js)
 BLOG-POST-LIST:END
 -->
-
-
 
 <!-- TechStack Links -->
 [vscode]: https://code.visualstudio.com
@@ -102,3 +93,8 @@ BLOG-POST-LIST:END
 [node]: https://nodejs.org/en
 [git]: https://git-scm.com
 [github]: https://github.com
+
+[website]: https://obouchari.me
+[twitter]: https://twitter.com/obouchari
+[youtube]: https://www.youtube.com/channel/UChLDblifp0g9hs7BKJTdLNQ
+[linkedin]: https://linkedin.com/in/obouchari
