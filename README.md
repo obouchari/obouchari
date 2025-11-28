@@ -89,8 +89,6 @@ Still working on it!
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=obouchari&show_icons=true&hide_border=true" />
-
 [website]: https://obouchari.me
 [twitter]: https://twitter.com/obouchari
 [youtube]: https://www.youtube.com/channel/UChLDblifp0g9hs7BKJTdLNQ
@@ -103,11 +101,6 @@ Still working on it!
 [tailwind]: https://tailwindcss.com
 [js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [react]: https://reactjs.org
-[vue]: https://vuejs.org
-[gatsby]: https://www.gatsbyjs.com
-[graphql]: https://graphql.org
+[Next.js]: https://nextjs.org
 [node]: https://nodejs.org/en
-[nest]: https://nestjs.com
 [git]: https://git-scm.com
-[github]: https://github.com
-[hyper]: https://hyper.is
