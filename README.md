@@ -26,11 +26,10 @@
   </table>
 </div> -->
 
-
 <!-- ## I'm a Developer, and Teacher!
 - 🥳 I Just released a new course [Real world jamstack](https://realworldjamstack.dev/)
-- 🌱 I’m currently learning everything JAMstack 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I'm currently learning everything JAMstack 🤣
+- 👯 I'm looking to collaborate with other content creators
 - ⚡ Fun fact: I love BBQ -->
 
 ### Connect with me:
@@ -39,7 +38,6 @@
 [<img align="left" alt="Otman Bouchari | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Otman Bouchari | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Otman Bouchari | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 
 <br />
 
@@ -59,7 +57,6 @@ And more...
 
 <br />
 <br />
-
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
@@ -96,6 +93,7 @@ Still working on it!
 [tailwind]: https://tailwindcss.com
 [js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [react]: https://reactjs.org
-[Nextjs]: https://nextjs.org
+[nextjs]: https://nextjs.org
 [node]: https://nodejs.org/en
 [git]: https://git-scm.com
+[github]: https://github.com
