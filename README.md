@@ -84,8 +84,6 @@ BLOG-POST-LIST:START
 BLOG-POST-LIST:END
 -->
 
----
-
 [website]: https://obouchari.me
 [twitter]: https://twitter.com/obouchari
 [youtube]: https://www.youtube.com/channel/UChLDblifp0g9hs7BKJTdLNQ
