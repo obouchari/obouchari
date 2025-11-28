@@ -63,23 +63,26 @@ And more...
 Still working on it!
 <!-- YOUTUBE:END -->
 
-<!-- - [Creating  Gatsbyjs  Recipes for Tailwindcss and Contentful](https://www.youtube.com/watch?v=4mr-iqdsz-Q)
+<!--
+- [Creating  Gatsbyjs  Recipes for Tailwindcss and Contentful](https://www.youtube.com/watch?v=4mr-iqdsz-Q)
 - [Live Stream - Migrate a plain React app to Gatsby](https://www.youtube.com/watch?v=uTQFVmnGB7o)
 - [02 Build a social network app using the JAMstack - CRUD](https://www.youtube.com/watch?v=QQhTuESUP4A)
 - [Prevent css grid items stretch](https://www.youtube.com/watch?v=DGoeAUB9VLQ)
-- [01 Build a social network app using the JAMstack - Project setup and Auth](https://www.youtube.com/watch?v=L6-z15IvZ3k) -->
-<!-- YOUTUBE:END -->
+- [01 Build a social network app using the JAMstack - Project setup and Auth](https://www.youtube.com/watch?v=L6-z15IvZ3k)
+-->
 
-<!-- --- -->
+---
 
-<!-- ### 📕 Latest Blog Posts -->
-<!-- BLOG-POST-LIST:START -->
-<!-- - [Getting Started with Gatsbyjs recipes](https://khaledgarbaya.net/articles/getting-started-with-gatsbyjs-recipes)
+<!--
+### 📕 Latest Blog Posts
+BLOG-POST-LIST:START
+- [Getting Started with Gatsbyjs recipes](https://khaledgarbaya.net/articles/getting-started-with-gatsbyjs-recipes)
 - [Gatsby As a Replacement for Create-react-app](https://khaledgarbaya.net/articles/gatsby-as-a-replacement-for-create-react-app)
 - [Tl;Dr GraphQL](https://khaledgarbaya.net/articles/tl-dr-graphql)
 - [How to create a node js command line tool with yargs middleware](https://khaledgarbaya.net/articles/how-to-create-a-node-js-command-line-tool-with-yargs-middleware)
-- [Moving from create-react-app to Gatsby.js](https://khaledgarbaya.net/articles/moving-from-create-react-app-to-gatsby-js) -->
-<!-- BLOG-POST-LIST:END -->
+- [Moving from create-react-app to Gatsby.js](https://khaledgarbaya.net/articles/moving-from-create-react-app-to-gatsby-js)
+BLOG-POST-LIST:END
+-->
 
 ---
 
