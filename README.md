@@ -51,14 +51,9 @@
 [<img align="left" alt="Tailwind" width="26px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" />][tailwind]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.svgporn.com/logos/javascript.svg" />][js]
 [<img align="left" alt="React" width="26px" src="https://cdn.svgporn.com/logos/react.svg" />][react]
-[<img align="left" alt="Vue" width="26px" src="https://cdn.svgporn.com/logos/vue.svg" />][vue]
-[<img align="left" alt="Gatsby" width="26px" src="https://cdn.svgporn.com/logos/gatsby.svg" />][gatsby]
-[<img align="left" alt="GraphQL" width="26px" src="https://cdn.svgporn.com/logos/graphql.svg" />][graphql]
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg" />][node]
-[<img align="left" alt="NestJS" width="26px" src="https://cdn.svgporn.com/logos/nestjs.svg" />][nest]
 [<img align="left" alt="Git" width="26px" src="https://cdn.svgporn.com/logos/git-icon.svg" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.svgporn.com/logos/github-icon.svg" />][github]
-[<img align="left" alt="Hyper" width="26px" src="https://cdn.svgporn.com/logos/hyper.svg" />][hyper]
 
 And more...
 
@@ -101,6 +96,6 @@ Still working on it!
 [tailwind]: https://tailwindcss.com
 [js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [react]: https://reactjs.org
-[Next.js]: https://nextjs.org
+[Nextjs]: https://nextjs.org
 [node]: https://nodejs.org/en
 [git]: https://git-scm.com
